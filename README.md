@@ -27,7 +27,7 @@ The data.json file contains a data object with a numbers variable that contains 
 <h3>Legal warning</h3>
 Using this script may violate the WhatsApp Terms of Service. Use it at your own risk. The author is not responsible for the misuse or any consequence derived from the use of this script.
 
-
+<br>
 Español -
 
 <h1>Automatización de WhatsApp</h1>
